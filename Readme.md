@@ -1,4 +1,6 @@
-# Install nginx in mac
+# In mac configuration
+
+## Install nginx
 
 In terminal run "brew install nginx"
 
